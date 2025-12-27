@@ -5,11 +5,6 @@ Designed for **performance, visual realism, and scalability** across desktop and
 
 ---
 
-## 🚀 Live Preview
-👉 *(Add your deployed link here – GitHub Pages / Netlify / Vercel)*
-
----
-
 ## 📌 Features
 
 - 🎇 Realistic firework physics & particle simulation
